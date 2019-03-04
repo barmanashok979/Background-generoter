@@ -1,5 +1,8 @@
 body {
 	 background: #FFFFFF;
+	padding:0;
+	margin:0;
+	
  }
  
  h1{
@@ -7,8 +10,11 @@ body {
 }
 p{
 	
-	color: red;
+	color: #457689;
 }
 #b{
-background-color:red;
+	text-align:center;
+	
+background-color:red; 
+padding:10px;
 }
